@@ -1,4 +1,5 @@
 # -ADS-2022-1
+
 Exercicio 6
 Algoritmo "Exercicio 6"
 var
@@ -12,6 +13,10 @@ comis <- vendas*0.04
 Escreval("Sua comissão foi no total de:",comis )
 Escreval("Seu salário líquido é:",salfixo+comis)
 Fimalgoritmo
+
+
+
+
 
 Exercício 24
 Algoritmo"Exercício 24"
